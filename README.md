@@ -10,7 +10,8 @@ This branch is for the 1.16.5 version of Minecraft.
 - [Downloads](https://minecraft.curseforge.com/projects/dynamictrees/files)
 
 ### Compiling
+(needs gradle and java 1.8)
 * Clone the repository
 * Open a command prompt/terminal to the repository directory
-* run 'gradlew build'
+* run 'gradle build'
 * The built jar file will be in build/libs/
